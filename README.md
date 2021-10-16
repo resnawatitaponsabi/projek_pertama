@@ -1,0 +1,2 @@
+# projek_pertama
+7F_Resnawati Taponsabi_18083000002
