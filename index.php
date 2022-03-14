@@ -10,6 +10,8 @@ include 'functions.php';
 <div class="content">
 	<h2>Home</h2>
 	<p>Welcome to the home page! echa  lagi apa</p>
+
+	<h1>saya melakukan yang baru</h1>
 </div>
 
 <?=template_footer()?>
